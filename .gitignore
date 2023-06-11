@@ -478,3 +478,7 @@ $RECYCLE.BIN/
 API/appsettings.json
 .vscode/launch.json
 .vscode/tasks.json
+
+#Database Files
+*.db-shm
+*.db-wal
